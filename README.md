@@ -1,2 +1,1 @@
-# timo-tok
-AI broke my cat 
+simple app for short videos of my cat Timo
